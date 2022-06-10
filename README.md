@@ -49,4 +49,8 @@
      
           https://discord.gg/qXMV95EPZv
   
-     
+     <p align="center">
+     <img src="https://github-readme-stats.vercel.app/api?username=afacool&hide=stars,issues&show_icons=true&theme=tokyonight" alt="Most Used">
+    <br>
+     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=afacool&layout=compact&theme=tokyonight" alt="Langs"
+</p>
